@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Sample</string>
+    <string-array name="back_stack_list">
+        <item>Stack-A</item>
+        <item>Stack-B</item>
+        <item>Stack-Z</item>
+    </string-array>
+</resources>
